@@ -1,0 +1,65 @@
+body {
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(212, 200, 200);
+}
+header {
+    background-color: rgb(77, 4, 4);
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+    
+
+}
+nav ul li a {
+    color: white;
+}
+main {
+    padding: 2rem;
+}
+footer {
+    background-color:rgb(77, 4, 4);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    position: none;
+}
+.imagessection {
+    display: flex;
+    justify-content: space-around;
+}
+.Homeimg {
+    width: 420px;
+    height: 320px;
+}
+.video {
+    margin: 2rem;
+    text-align: center;
+}
+#Home {
+    text-align: center;
+}
+#about {
+    text-align: center;
+}
+nav a:hover {
+    color:#007BFF
+}
+#our-services {
+    text-align: center;
+}
+#contact {
+    text-align: center;
+}
+#media {
+    text-align: center;
+}
